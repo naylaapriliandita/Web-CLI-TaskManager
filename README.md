@@ -13,3 +13,5 @@ Teknologi
 - fs/promises untuk I/O file asinkron (Async/Await)
 - path untuk resolusi path file
 - process.argv untuk parsing argumen CLI
+
+![alt text](image.png)
